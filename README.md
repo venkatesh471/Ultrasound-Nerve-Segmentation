@@ -22,4 +22,4 @@ Files:
 # Model
 The provided model is basically a convolutional auto-encoder, but with a twist - it has skip connections from encoder layers to decoder layers that are on the same "level". See picture below (note that image size and numbers of convolutional filters in this tutorial differs from the original U-Net architecture).
 
-img/u-net-architecture.png
+- img/u-net-architecture.png
