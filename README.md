@@ -26,3 +26,4 @@ The provided model is basically a convolutional auto-encoder, but with a twist -
 ![](u-net-architecture.png)
 
 
+- The Detailed Blog written by me.(https://medium.com/@venkateshkandibanda471/ultrasound-nerve-segmentation-99a05b4bd88a)
