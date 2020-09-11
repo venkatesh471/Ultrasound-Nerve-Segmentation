@@ -1,7 +1,8 @@
 # Ultrasound-Nerve-Segmentation
 
- - Venkatesh
-In Medical Field there are enormous facilities that has been never thought before, they done more
+ - VENKATESH
+ 
+- In Medical Field there are enormous facilities that has been never thought before, they done more
 improvements in the field of surgery, x-rays, medicine and lot more but still people are facing difficulties or
 pain in facing the treatment of ultrasound images. These ultrasound scans are very important to detect any
 kind of injury of disease in human body because it used to scan the internal tissues of the body
