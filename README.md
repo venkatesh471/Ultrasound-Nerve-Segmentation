@@ -12,14 +12,14 @@ This Data contains the images of Ultrasound nerves of neck of patients which are
 identified the Brachial plexus where the patient finds pain.
 The Data can be downloaded from here https://www.kaggle.com/c/ultrasound-nervesegmentation/data (https://www.kaggle.com/c/ultrasound-nerve-segmentation/data)
 Files:
-  Train :1.08GB
-  Contains 5635 images of 47 patients with their corresponding masks images.
-  Test :1.05GB
-  Contains 5508 images which are to be segmented.
-  Train masks :2.14MB
-  Sample submission :48KB
+  - Train :1.08GB
+    Contains 5635 images of 47 patients with their corresponding masks images.
+  - Test :1.05GB
+    Contains 5508 images which are to be segmented.
+  - Train masks :2.14MB
+  - Sample submission :48KB
   
 # Model
 The provided model is basically a convolutional auto-encoder, but with a twist - it has skip connections from encoder layers to decoder layers that are on the same "level". See picture below (note that image size and numbers of convolutional filters in this tutorial differs from the original U-Net architecture).
 
-- img/u-net-architecture.png
+
